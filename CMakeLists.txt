@@ -7,4 +7,6 @@ set(CMAKE_CXX_STANDARD 11)
 #测试输出
 #add_executable(cpp_study cpp/basic/cout_test.cpp)
 #测试输入
-add_executable(cpp_study cpp/basic/cin_test.cpp)
+#add_executable(cpp_study cpp/basic/cin_test.cpp)
+#数组输出
+add_executable(cpp_study cpp/basic/int_array_test.cpp)
