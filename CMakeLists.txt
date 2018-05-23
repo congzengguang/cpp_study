@@ -9,4 +9,6 @@ set(CMAKE_CXX_STANDARD 11)
 #测试输入
 #add_executable(cpp_study cpp/basic/cin_test.cpp)
 #数组输出
-add_executable(cpp_study cpp/basic/int_array_test.cpp)
+#add_executable(cpp_study cpp/basic/int_array_test.cpp)
+#指针
+add_executable(cpp_study cpp/point/point_test.cpp)
