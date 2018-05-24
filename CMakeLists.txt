@@ -21,4 +21,17 @@ set(CMAKE_CXX_STANDARD 11)
 #数据类型
 #add_executable(cpp_study cpp/basic/data_type.cpp)
 #定义新类型
-add_executable(cpp_study cpp/basic/typedef_test.cpp)
+#add_executable(cpp_study cpp/basic/typedef_test.cpp)
+#变量
+#add_executable(cpp_study cpp/basic/val_test.cpp)
+#变量的声明，定义，初始化
+#add_executable(cpp_study cpp/basic/val_declare_define_init.cpp)
+#局部变量和全局变量
+#add_executable(cpp_study cpp/basic/val_all_test.cpp)
+#常量的两种声明方式
+#add_executable(cpp_study cpp/basic/const_two_test.cpp)
+#静态变量声明 static存储类
+#add_executable(cpp_study cpp/basic/static_test.cpp)
+#extern 存储类
+#add_executable(cpp_study cpp/basic/extern_test.cpp cpp/basic/extern_two.cpp)
+add_executable(cpp_study cpp/basic/extern_test.cpp cpp/basic/extern_two.cpp)
