@@ -34,4 +34,8 @@ set(CMAKE_CXX_STANDARD 11)
 #add_executable(cpp_study cpp/basic/static_test.cpp)
 #extern 存储类
 #add_executable(cpp_study cpp/basic/extern_test.cpp cpp/basic/extern_two.cpp)
-add_executable(cpp_study cpp/basic/extern_test.cpp cpp/basic/extern_two.cpp)
+#获取变量及类型的存储空间
+#add_executable(cpp_study cpp/basic/size_of_type.cpp)
+#强制类型转换
+#add_executable(cpp_study cpp/basic/case_type_test.cpp)
+add_executable(cpp_study cpp/basic/case_type_test.cpp)
