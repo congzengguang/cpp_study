@@ -38,4 +38,6 @@ set(CMAKE_CXX_STANDARD 11)
 #add_executable(cpp_study cpp/basic/size_of_type.cpp)
 #强制类型转换
 #add_executable(cpp_study cpp/basic/case_type_test.cpp)
-add_executable(cpp_study cpp/basic/case_type_test.cpp)
+#for 循环
+#add_executable(cpp_study cpp/basic/for_test.cpp)
+add_executable(cpp_study cpp/basic/for_test.cpp)
