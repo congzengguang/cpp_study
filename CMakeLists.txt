@@ -42,4 +42,6 @@ set(CMAKE_CXX_STANDARD 11)
 #add_executable(cpp_study cpp/basic/for_test.cpp)
 #域操作符
 #add_executable(cpp_study cpp/basic/HelloWorld.cpp)
+#指向指针的指针
+#add_executable(cpp_study cpp/point/point_to_point.cpp)
 add_executable(cpp_study cpp/point/point_to_point.cpp)
